@@ -1,4 +1,4 @@
-# CLV
+# CUSTOMER LIFETIME VALYE DETERMINATION
 
 The Beta-Geometric Negative Binomial Distribution (BG-NBD) model is an influential probabilistic model for describing customer behavior 
 and for predicting customer lifetime value (CLV).
