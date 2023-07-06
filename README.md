@@ -8,3 +8,6 @@ and business values out of the model.
 
 ![CLV](clv.png)
 
+Before fitting the BG-NBD model, we need to first restructure this table to the canonical “RFM” format. 
+
+![RFM](rfm.png)
