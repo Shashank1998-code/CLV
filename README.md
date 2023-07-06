@@ -22,7 +22,7 @@ CLV estimation using BG-NBD
 
 We’ve seen how we could use the BG-NBD model to predict the probability-of-being-alive p as well as number of purchases in the next k periods. These two predictions can in turn be used to calculate a rough estimate of the customer’s value for the next k periods. The estimate can be calculated as follows:
 
-![formula(formula.png)
+![formula](formula.png)
 
 This estimate relies on the following two simplistic assumptions:
 
